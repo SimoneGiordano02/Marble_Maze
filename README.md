@@ -36,6 +36,6 @@ L’obiettivo è guidare la pallina attraverso un percorso pieno di ostacoli, ev
 
 ---
 
-##Video dimostrativo
--[![Marble Maze Demo](https://img.youtube.com/vi/pBACTiE96PA/0.jpg)](https://youtu.be/pBACTiE96PA)
+## Video dimostrativo
+- [![Marble Maze Demo](https://img.youtube.com/vi/pBACTiE96PA/0.jpg)](https://youtu.be/pBACTiE96PA)
 
