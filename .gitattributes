@@ -1,0 +1,45 @@
+# Normalize line endings
+* text=auto
+
+# Unity specific
+*.cs     text diff=csharp
+*.shader text
+*.cginc  text
+*.compute text
+*.json   text
+*.xml    text
+*.yaml   text
+*.yml    text
+*.meta   text merge=union
+
+# Binary files (no diff, keep as is)
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.tga    binary
+*.gif    binary
+*.bmp    binary
+*.ico    binary
+*.psd    binary
+*.ai     binary
+*.mp3    binary
+*.ogg    binary
+*.wav    binary
+*.mp4    binary
+*.mov    binary
+*.fbx    binary
+*.blend  binary
+*.prefab binary
+*.unity  binary
+*.asset  binary
+*.ttf    binary
+*.otf    binary
+*.dll    binary
+*.exe    binary
+*.so     binary
+*.dylib  binary
+*.a      binary
+*.zip    binary
+*.7z     binary
+*.gz     binary
+*.tar    binary
