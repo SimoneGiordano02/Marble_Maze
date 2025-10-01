@@ -25,7 +25,7 @@ L’obiettivo è guidare la pallina attraverso un percorso pieno di ostacoli, ev
 
 ## Istruzioni per l’esecuzione
 1. Aprire il progetto in **Unity**.  
-2. Lanciare la scena principale del livello **MarbleMaze.unity**.  
+2. Lanciare la scena principale del livello **SampleScene**.  
 3. Utilizzare i comandi per inclinare il piano e guidare la pallina fino all’area di arrivo.  
 
 ---
