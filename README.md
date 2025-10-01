@@ -31,9 +31,11 @@ L’obiettivo è guidare la pallina attraverso un percorso pieno di ostacoli, ev
 ---
 
 ## Controlli
-- **A/D** – Ruota il piano sull’asse Z.  
-- **W/S** – Ruota il piano sull’asse X.  
+- **A/D o freccia direzionale dx/sx** – Ruota il piano sull’asse Z.  
+- **W/S o freccia direzionale su/giu'** – Ruota il piano sull’asse X.  
 
 ---
 
+##Video dimostrativo
+[![Marble Maze Demo](https://img.youtube.com/vi/pBACTiE96PA/0.jpg)](https://youtu.be/pBACTiE96PA)
 
